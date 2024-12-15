@@ -45,7 +45,7 @@ None of the tools listed here are affiliated (always check the links to ensure t
 
 
 ### Career 👔
-- [Seekario.ai](https://seekario.ai): Used their role assessment, resume tailoring, and interview prep with their $20 plan. I tried different tools, but this one was the most advanced, and the results were well-written and human-like. One of their cool featureis is the KSC letter, which explains how you meet the most important requirements of the job.
+- [Seekario.ai](https://seekario.ai): Used their role assessment, resume tailoring, and interview prep with their $20 plan. I tried different tools, but this one was the most advanced, and the results were well-written and human-like. One of their cool features is the KSC letter, which explains how you meet the most important requirements of the job.
 
 
 ### Sales 💰
