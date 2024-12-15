@@ -13,9 +13,8 @@ None of the tools listed here are affiliated (always check the links to ensure t
 **********************************************************************************************
 
 
-### Content creation pack for beginners:🖋️
+### Content creation for beginners:🖋️
 - [Canva](https://www.canva.com/): Ideal for creating images and carousels. I love that they integrated their tool with LottieFiles.
-- [CapCut](https://www.capcut.com): Great for recording tutorial sessions, editing videos, and adding effects/musics. I'm using thier $15 plan.
 - [ContentShake](https://www.semrush.com/apps/contentshake/)  Not free, but perfect for writing articles (use only on the text and ignore the AI-generated images as they're totally irrelavnet). I used their $100 plan for two months. It was expensive for me, but if you can afford it, give it a shot.
 
 
@@ -38,6 +37,7 @@ None of the tools listed here are affiliated (always check the links to ensure t
 
 ### Video 🎥 
 - [Runway](https://runwayml.com/): Loved their animation creator! It helped me add cute, small animals to my content, making it more engaging. It's popular, I don't think you need my explanation for this one!
+- [CapCut](https://www.capcut.com): Great for recording tutorial sessions, editing videos, and adding effects/musics. I'm using thier $15 plan.
 
 
 ### Images 📸
