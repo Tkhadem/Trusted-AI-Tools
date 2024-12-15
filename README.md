@@ -19,8 +19,10 @@ None of the tools listed here are affiliated (always check the links to ensure t
 - [ContentShake](https://www.semrush.com/apps/contentshake/)  Not free, but perfect for writing articles (use only on the text and ignore the AI-generated images as they're totally irrelavnet). I used their $100 plan for two months. It was expensive for me, but if you can afford it, give it a shot.
 
 
+
 ### Brainstorming:🧠
 - [Notion AI](https://www.notion.com/): My favorite and famous AI tool for brainstorming and asking AI to add the finishing touches. Famous one, I don't think you need my explanation here.
+
 
 
 ### Content creations using OpenAI vs Claude: 🤖
@@ -28,9 +30,11 @@ None of the tools listed here are affiliated (always check the links to ensure t
 - [Claude](https://claude.ai/): I stopped using it after October 2024. I found Claude to be good for starting tasks from scratch, but I didn’t find it as powerful as GPTs when it comes to analyzing or optimizing information. However, its writing style is much more human-like. Depending on your use case, you can decide between Claude and OpenAI models.
 
 
+
 ### AI Search engines: 🔍
 - [Perplexity AI](https://www.perplexity.ai/): More reliable search results instead of the sponsored ones you often see with traditional search engines.
 - [ChatGPT search](https://openai.com/index/introducing-chatgpt-search/): Good onhe but Perplexity is still more advanced to me. I think GPT search is trained on Bing’s data, which doesn’t seem like the best idea—how many people have actually used Bing in the past few years? I’m not sure how relevant the ranking is, as the results are sometimes off.
+
 
 ### Video 🎥 
 - [Runway](https://runwayml.com/): Loved their animation creator! It helped me add cute, small animals to my content, making it more engaging. It's popular, I don't think you need my explanation for this one!
