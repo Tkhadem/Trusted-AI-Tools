@@ -17,7 +17,7 @@ Want to explore all the AI tools available across different categories? Check ou
 
 
 ### Content creation pack for beginners:
-- [Canva](https://:](https://www.canva.com/): Ideal for creating images and carousels. 
+- [Canva](https://www.canva.com/): Ideal for creating images and carousels. 
 - [CapCut](https://www.capcut.com): Great for recording tutorial sessions, editing videos, and adding effects.
 - [Semrush](https://www.semrush.com/apps/contentshake/) Not free but it's perfect for writing articles (focus only on the text and ignore the AI-generated images).
 
