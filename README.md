@@ -2,7 +2,7 @@
 
 I decided to start this repository because there’s too much noise about AI tools, and no one seems to know which ones actually work and which are just buzzwords. I hope we can build a comprehensive list of AI tools that actually work.
 
-#### Everyone is welcome to contribute and submit your AI tools for FREE.
+#### Everyone is welcome to contribute and submit your AI tools.
 All you need to do is add a brief explanation about why and how the tool worked or helped you
 
 
